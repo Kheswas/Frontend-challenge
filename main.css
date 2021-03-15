@@ -1,0 +1,35 @@
+body, html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: url("https://placehold.it/150x80?text=IMAGE");
+  min-height: 50%;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+h4 {
+  text-decoration: underline;
+}
+#more {display: none;}
+.bg {
+  background image:url("images.png");
+  height: 50%;
+  background position:center;
+  background repeat: no-repeat;
+  background size: cover;
+}
